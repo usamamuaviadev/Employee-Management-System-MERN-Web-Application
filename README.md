@@ -14,10 +14,6 @@ This Employee Management System is a full-stack web application built using the 
 
 
 ## Tech Stack
-
-
-
-
 **Client:** Reac.js, Redux, Router, Tailwind CSS
 <p>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
@@ -33,8 +29,6 @@ This Employee Management System is a full-stack web application built using the 
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> 
 </p>
-
-
 
 
 ## Installation
